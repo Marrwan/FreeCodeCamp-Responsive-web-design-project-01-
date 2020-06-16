@@ -1,0 +1,63 @@
+main{
+    border-radius: 10px;
+    margin: 25px 10px;
+    padding: 10px;
+    background-color: #eee;
+}
+h1{
+    text-align: center;
+    font-size: 3.5rem;
+}
+#nil{
+    margin: 20px 40px;
+    font-size: 20px;
+    text-align: center;
+}
+a{
+    text-decoration:none;
+}
+img{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    padding-top: 15px;
+}
+ul{
+    margin: auto;
+    width: 70%;
+}
+#img-div{
+    background: white;
+padding: 10px;
+margin: 0;
+}
+#img-caption{
+    margin: 20px auto;
+    text-align: center;
+    font-size: 1rem;
+}
+p{
+    margin: 20px 40px;
+    font-size: 20px;
+}
+
+
+#headline{
+   text-align: center;
+   width: 100%;
+   height: auto;
+   margin: 50px 0;
+   font-size: 2.5rem;
+}
+li{
+  text-align: center;
+
+  padding: 20px 20px 0 5px;
+  font-size: 1.5rem;
+}
+
+#incro{
+text-align: center;
+font-size: 1.5rem;
+}    
